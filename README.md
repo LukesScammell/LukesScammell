@@ -44,7 +44,7 @@
 - 🧪 Testing (Jest, Postman)
 - 🧑‍🎨 Better UI/UX with Tailwind CSS and design systems
 - 
-![snake gif](https://github.com/LukesScammell/blob/output/github-contribution-grid-snake.svg)
+[![trophy](https://github-profile-trophy.vercel.app/?username=LukesScammell&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
