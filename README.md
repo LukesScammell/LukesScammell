@@ -24,8 +24,6 @@
 
 <a href="http://www.github.com/LukesScammell"><img src="https://github-readme-stats.vercel.app/api?username=LukesScammell&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=14b8a6&icon_color=ec4899&bg_color=000000&hide_border=true&show_icons=true" alt="LukesScammell's GitHub stats" /></a>
 
-<a href="http://www.github.com/LukesScammell"><img src="https://github-readme-streak-stats.herokuapp.com/?user=LukesScammell&stroke=14b8a6&background=000000&ring=ec4899&fire=ec4899&currStreakNum=14b8a6&currStreakLabel=ec4899&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" /></a>
-
 # 🌐 Visitors & Activity
 ![Profile Views](https://komarev.com/ghpvc/?username=LukesScammell&color=blueviolet&style=flat-square)
 
