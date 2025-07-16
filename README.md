@@ -20,6 +20,10 @@
 
 [![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LukesScammell&theme=github_dark)](https://github.com/LukesScammell)
 
+<a href="http://www.github.com/Yugenzariah"><img src="https://github-readme-stats.vercel.app/api?username=Yugenzariah&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=14b8a6&icon_color=ec4899&bg_color=000000&hide_border=true&show_icons=true" alt="Yugenzariah's GitHub stats" /></a>
+
+<a href="http://www.github.com/Yugenzariah"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Yugenzariah&stroke=14b8a6&background=000000&ring=ec4899&fire=ec4899&currStreakNum=14b8a6&currStreakLabel=ec4899&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" /></a>
+
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LukesScammell&layout=compact&theme=tokyonight)](https://github.com/LukesScammell)
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LukesScammell&show_icons=true&hide_rank=true&theme=transparent)](https://github.com/LukesScammell)
@@ -44,13 +48,7 @@
 - 🧪 Testing (Jest, Postman)
 - 🧑‍🎨 Better UI/UX with Tailwind CSS and design systems
 
-### 🧩 Featured Projects
 
-[![HealthDash](https://img.shields.io/badge/-HealthDash-blueviolet?style=for-the-badge)](https://github.com/LukesScammell/healthdash)
-> Role-based patient and provider health record app with medication assignments.
-
-[![Weatherify](https://img.shields.io/badge/-Weatherify-informational?style=for-the-badge)](https://github.com/LukesScammell/weatherify)
-> Minimal weather app using OpenWeather API and responsive UI.
 
 
 
