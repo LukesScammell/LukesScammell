@@ -6,8 +6,6 @@
 - 🔧 Also exploring Python, SQL, and web security
 - 🎓 Completed the New Zealand Certificate in IT (Level 5)
 
-[![Spotify](https://novatorem-LukesScammell.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_ID)
-
 
 # 🛠️ Tech Stack
 <p>
