@@ -8,8 +8,8 @@
 
 [![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LukeScammell&theme=github_dark)](https://github.com/LukeScammell)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LukeScammell&layout=compact&theme=tokyonight)](https://github.com/LukeScammell)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LukeScammell&layout=compact&theme=tokyonight)](https://github.com/LukesScammell)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LukeScammell&show_icons=true&hide_rank=true&theme=transparent)](https://github.com/LukeScammell)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LukeScammell&show_icons=true&hide_rank=true&theme=transparent)](https://github.com/LukesScammell)
 
-![Profile Views](https://komarev.com/ghpvc/?username=LukeScammell&color=blueviolet&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=LukesScammell&color=blueviolet&style=flat-square)
