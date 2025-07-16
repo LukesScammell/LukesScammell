@@ -44,11 +44,8 @@
 - 🧪 Testing (Jest, Postman)
 - 🧑‍🎨 Better UI/UX with Tailwind CSS and design systems
 - 
-### 🔗 Connect With Me
-<p align="left">
-  <a href="linkedin.com/in/luke-scammell" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:lukescammell177@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-</p>
+![snake gif](https://github.com/LukesScammell/LukesScammell/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
