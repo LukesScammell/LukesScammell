@@ -46,10 +46,10 @@
 
 ### 🧩 Featured Projects
 
-[![HealthDash](https://img.shields.io/badge/-HealthDash-blueviolet?style=for-the-badge)](https://github.com/LukeScammell/healthdash)
+[![HealthDash](https://img.shields.io/badge/-HealthDash-blueviolet?style=for-the-badge)](https://github.com/LukesScammell/healthdash)
 > Role-based patient and provider health record app with medication assignments.
 
-[![Weatherify](https://img.shields.io/badge/-Weatherify-informational?style=for-the-badge)](https://github.com/LukeScammell/weatherify)
+[![Weatherify](https://img.shields.io/badge/-Weatherify-informational?style=for-the-badge)](https://github.com/LukesScammell/weatherify)
 > Minimal weather app using OpenWeather API and responsive UI.
 
 
