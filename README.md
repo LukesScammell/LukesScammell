@@ -1,16 +1,15 @@
-## Hi there 👋
+- 👋 Hi, I’m @LukeScammell
+- 🚀 Aspiring Full-Stack Developer & Tech Enthusiast
+- 🌱 Learning HTML, CSS, JavaScript (Node.js, APIs)
+- 💾 Working with MongoDB, Express.js, bcrypt, session auth
+- 🔧 Also exploring Python, SQL, and web security
 
-<!--
-**LukesScammell/LukesScammell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Completed the New Zealand Certificate in IT (Level 5)
 
-Here are some ideas to get you started:
+[![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LukeScammell&theme=github_dark)](https://github.com/LukeScammell)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LukeScammell&layout=compact&theme=tokyonight)](https://github.com/LukeScammell)
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LukeScammell&show_icons=true&hide_rank=true&theme=transparent)](https://github.com/LukeScammell)
+
+![Profile Views](https://komarev.com/ghpvc/?username=LukeScammell&color=blueviolet&style=flat-square)
