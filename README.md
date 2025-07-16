@@ -27,7 +27,31 @@
 # 🌐 Visitors & Activity
 ![Profile Views](https://komarev.com/ghpvc/?username=LukesScammell&color=blueviolet&style=flat-square)
 
-[![Luke’s GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LukesScammell&theme=tokyo-night)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+### 💼 Currently Working On
+- 🌐 Full-stack healthcare web app using Node.js, Express, MongoDB
+- 🧠 Learning authentication, role-based access, and responsive UI
+- 🚀 Building real-world projects to strengthen full-stack skills
+
+### 🎯 2025 Goals
+- ✅ Finish Web Development Diploma Level 5
+- 🔄 Master React or Vue
+- 💡 Build 3 full-stack portfolio projects
+- ✨ Apply for internships / junior dev roles
+
+### 📚 Currently Learning
+- 🛠️ React & component-based design
+- 🔐 Security best practices (bcrypt, JWT, sessions)
+- 🧪 Testing (Jest, Postman)
+- 🧑‍🎨 Better UI/UX with Tailwind CSS and design systems
+
+### 🧩 Featured Projects
+
+[![HealthDash](https://img.shields.io/badge/-HealthDash-blueviolet?style=for-the-badge)](https://github.com/LukeScammell/healthdash)
+> Role-based patient and provider health record app with medication assignments.
+
+[![Weatherify](https://img.shields.io/badge/-Weatherify-informational?style=for-the-badge)](https://github.com/LukeScammell/weatherify)
+> Minimal weather app using OpenWeather API and responsive UI.
+
 
 
 
