@@ -24,6 +24,8 @@
 
 <a href="http://www.github.com/LukesScammell"><img src="https://github-readme-stats.vercel.app/api?username=LukesScammell&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=14b8a6&icon_color=ec4899&bg_color=000000&hide_border=true&show_icons=true" alt="LukesScammell's GitHub stats" /></a>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=LukesScammell&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
+
 # 🌐 Visitors & Activity
 ![Profile Views](https://komarev.com/ghpvc/?username=LukesScammell&color=blueviolet&style=flat-square)
 
@@ -43,8 +45,6 @@
 - 🔐 Security best practices (bcrypt, JWT, sessions)
 - 🧪 Testing (Jest, Postman)
 - 🧑‍🎨 Better UI/UX with Tailwind CSS and design systems
-- 
-[![trophy](https://github-profile-trophy.vercel.app/?username=LukesScammell&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
