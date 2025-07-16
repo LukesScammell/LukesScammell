@@ -1,6 +1,5 @@
 # 👨‍💻 About Me
-- 👋 Hi, I’m @LukeScammell
-- <h3 align="left">Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm Luke</h3>
+- <h3 align="left">-  Hi,  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I’m @LukeScammell </h3>
 - 🚀 Aspiring Full-Stack Developer & Tech Enthusiast
 - 🌱 Learning HTML, CSS, JavaScript (Node.js, APIs)
 - 💾 Working with MongoDB, Express.js, bcrypt, session auth
@@ -28,7 +27,7 @@
 # 🌐 Visitors & Activity
 ![Profile Views](https://komarev.com/ghpvc/?username=LukesScammell&color=blueviolet&style=flat-square)
 
-![Visitor Map](https://visitcount.itsvg.in/api?id=LukeScammell&label=Profile%20Views&color=12&icon=2&pretty=true)
+![Visitor Map](https://visitcount.itsvg.in/api?id=LukesScammell&label=Profile%20Views&color=12&icon=2&pretty=true)
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
