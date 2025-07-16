@@ -43,6 +43,12 @@
 - 🔐 Security best practices (bcrypt, JWT, sessions)
 - 🧪 Testing (Jest, Postman)
 - 🧑‍🎨 Better UI/UX with Tailwind CSS and design systems
+- 
+### 🔗 Connect With Me
+<p align="left">
+  <a href="linkedin.com/in/luke-scammell-b8b487354" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:LukeScammell177@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+</p>
 
 
 
