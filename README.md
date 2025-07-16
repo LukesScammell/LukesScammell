@@ -27,7 +27,8 @@
 # 🌐 Visitors & Activity
 ![Profile Views](https://komarev.com/ghpvc/?username=LukesScammell&color=blueviolet&style=flat-square)
 
-![Visitor Map](https://visitcount.itsvg.in/api?id=LukesScammell&label=Profile%20Views&color=12&icon=2&pretty=true)
+[![Luke’s GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LukesScammell&theme=tokyo-night)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
 
 
 
