@@ -29,7 +29,6 @@
 
 ![Visitor Map](https://visitcount.itsvg.in/api?id=LukesScammell&label=Profile%20Views&color=12&icon=2&pretty=true)
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 
 
