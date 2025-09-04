@@ -23,19 +23,10 @@
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LukesScammell&layout=compact&theme=tokyonight)](https://github.com/LukesScammell)
 
-## Skills
+## Tools I use
 
-### Electron / Node
-- **Electron** — `████████████████░░░░` 80%
-- **Node basics** — `█████████████░░░░░░░` 65%
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,nodejs,electron,sqlite,git,github,vscode&perline=10)](https://skillicons.dev)
 
-### Python / TTS
-- **Python** — `███████████████░░░░░` 75%
-- **OSC / VTuber tooling** — `██████████████░░░░░░` 68%
-
-### Testing
-- **Playwright** — `██████████████░░░░░░` 70%
-- **Unit tests** — `████████████░░░░░░░░` 60%
 
 
 <a href="http://www.github.com/LukesScammell"><img src="https://github-readme-stats.vercel.app/api?username=LukesScammell&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=14b8a6&icon_color=ec4899&bg_color=000000&hide_border=true&show_icons=true" alt="LukesScammell's GitHub stats" /></a>
